@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.javanibble.maven.examples</groupId>
+	<groupId>com.kiran.maven.examples</groupId>
 	<artifactId>SpringBootMavenReleasePlugin</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 
@@ -26,9 +26,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:https://github.com/javanibble/maven-release-plugin-example.git</connection>
-		<developerConnection>scm:git:https://github.com/javanibble/maven-release-plugin-example.git</developerConnection>
-		<url>https://github.com/javanibble/maven-release-plugin-example.git</url>
+		<connection>scm:git:https://github.com/DeltaCypher/maven-release-plugin.git</connection>
+		<developerConnection>scm:git:https://github.com/DeltaCypher/maven-release-plugin.git</developerConnection>
+		<url>https://github.com/DeltaCypher/maven-release-plugin.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
