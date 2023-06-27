@@ -9,9 +9,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.kiran.maven.examples</groupId>
+	<groupId>com.javanibble.maven.examples</groupId>
 	<artifactId>SpringBootMavenReleasePlugin</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<name>SpringBoot Maven Release Plugin</name>
 	<description>A simple console application making use of Spring Boot illustrating the Maven Release Plugin.</description>
