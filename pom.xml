@@ -34,12 +34,12 @@
 
 	<distributionManagement>
 		<repository>
-			<id>packagecloud.release</id>
-			<url>packagecloud+https://packagecloud.io/javanibble/release</url>
+			<id>Project-release</id>
+			<url>http://10.0.2.4:8081/repository/Project-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>packagecloud.snapshot</id>
-			<url>packagecloud+https://packagecloud.io/javanibble/snapshot</url>
+			<id>Project-Snapshot</id>
+			<url>http://10.0.2.4:8081/repository/Project-Snapshot</url>
 		</snapshotRepository>
 	</distributionManagement>
 
