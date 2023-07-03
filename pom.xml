@@ -34,12 +34,12 @@
 
 	<distributionManagement>
 		<repository>
-			<id>Project-release</id>
-			<url>http://10.0.2.4:8081/repository/Project-release/</url>
+			<id>Release-Project</id>
+			<url>http://10.0.2.4:8081/repository/Release-Project/</url>
 		</repository>
 		<snapshotRepository>
-			<id>Project-Snapshot</id>
-			<url>http://10.0.2.4:8081/repository/Project-Snapshot</url>
+			<id>Snapshot-Project</id>
+			<url>http://10.0.2.4:8081/repository/Snapshot-Project/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
